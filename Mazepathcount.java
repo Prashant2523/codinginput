@@ -1,4 +1,4 @@
-class Mazepath
+class Mazepathcount
 {
 	public static int countpath(int dr, int dc, int sr, int sc,String sp)
 	{
